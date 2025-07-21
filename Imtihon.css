@@ -1,0 +1,77 @@
+h1{
+    text-align: center;
+    background-color: aqua;
+    border: 5px solid red;
+    border-radius: 20px;
+}
+i{
+    color: red;
+    font-size: 17px;
+}
+h2{
+    color: green;
+}
+h3{
+    text-align: center;
+    color: green;
+    background-color: yellow;
+    border-radius: 15px;
+}
+img{
+    width: 550px;
+    height: 400px;
+}
+.img1{
+    height: 550px;
+    width: 400px;
+}
+h4{
+    color: green;
+    background-color: yellow;
+    border-radius: 20px;
+    text-align: center;
+}
+form{
+    color: green;
+}
+input{
+    width: 100%;
+}
+h5{
+    color: green;
+    background-color: yellow;
+    border-radius: 20px;
+    text-align: center;
+}
+button{
+    color: white;
+    background-color: blue;
+    font-size: 40px;
+}
+h6{
+   color: green;
+    background-color: yellow;
+    border-radius: 20px;
+    text-align: center; 
+}
+table{
+    width: 100%;
+    border: 3px solid black;
+}
+table, td, th{
+    border: solid black;
+    border-collapse: collapse;
+}
+.c1{
+    background-color: green;
+}
+.c2{
+    background-color: blue;
+}
+.b{
+    background-color: red;
+}
+td{
+    background-color: black;
+    color: white;
+}
